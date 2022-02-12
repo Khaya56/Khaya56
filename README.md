@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://thumbs.dreamstime.com/b/vector-people-developer-web-site-eps-93724754.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.scoopbyte.com/wp-content/uploads/2021/09/0_HICLyAdNSIyT0ODU.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khayelihle</h1>
 <h3 align="center">I'm a passionate Information Systems Tech graduate from South Africa.</h3>
