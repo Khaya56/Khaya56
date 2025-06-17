@@ -43,14 +43,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-   
-  <a href="https://github.com/Khaya56/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaya56&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 <br/>
 
@@ -60,9 +52,3 @@
 <a href = "https://www.linkedin.com/in/khayelihle-buthelezi-b76092195"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Khaya56/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khaya56">
-</a>
-<a href="https://github.com/Khaya56?tab=followers"><img src="https://img.shields.io/github/followers/Khaya56?label=Followers&style=social" alt="GitHub Badge"></a>
