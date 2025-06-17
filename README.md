@@ -1,16 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://www.scoopbyte.com/wp-content/uploads/2021/09/0_HICLyAdNSIyT0ODU.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khayelihle</h1>
-<h3 align="center">I'm a passionate Information Systems and Tech graduate from South Africa.</h3>
+<h3 align="center">I'm a passionate Masters in Applied Data Science from South Africa and work as a BI Analyst at Nedbank.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 
 
-- 🌱 I’m currently learning **Python.**
-
-- 👯 I’m looking for **Entry-level developer jobs, analyst jobs or internships in the tech space.**
+- 🌱 I’m currently learning **LLM Ops.**
 
 - 📫 How to reach me **khayab14@gmail.com**
 
