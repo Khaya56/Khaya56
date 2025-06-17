@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://www.scoopbyte.com/wp-content/uploads/2021/09/0_HICLyAdNSIyT0ODU.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khayelihle</h1>
-<h3 align="center">I'm a passionate Masters in Applied Data Science from South Africa and work as a BI Analyst at Nedbank.</h3>
+<h3 align="center">I'm a passionate Masters in Applied Data Science Student from South Africa and and currently work as a BI Analyst at Nedbank.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -62,7 +62,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Khaya56/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Khaya56">
 </a>
 <a href="https://github.com/Khaya56?tab=followers"><img src="https://img.shields.io/github/followers/Khaya56?label=Followers&style=social" alt="GitHub Badge"></a>
